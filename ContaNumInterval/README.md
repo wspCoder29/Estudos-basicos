@@ -4,7 +4,7 @@ Num programa de tv, um dos convidados tinha de indicar quantas vezes o número 8
 no intervalo de 0 a 100.
 
 Fiquei curioso em como implementar um programa que faça essa atividade.
-Abaixo indico o funcionamento da solução.
+Abaixo indico o funcionamento da solução presente em "Program.cs"
 
 <img src=img/pergunta.JPEG width="500">
 
