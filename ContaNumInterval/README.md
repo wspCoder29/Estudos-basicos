@@ -2,6 +2,8 @@ Quantas vezes um número aparece num intervalo?
 
 Num programa de tv, um dos convidados tinha de indicar quantas vezes o número 8 aparece 
 no intervalo de 0 a 100.
+Fiquei curioso em como implementar um programa que faça essa atividade.
+Abaixo indico o funcionamento da solução.
 
 <img src=img/pergunta.JPEG width="500">
 
