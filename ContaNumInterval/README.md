@@ -8,4 +8,4 @@ O seguinte programa recebe 3 números, sendo eles:
 * Número a ser procurado e contado
 
 
-<img src=/Estudos-basicos/ContaNumInterval/img/1.jpg width="500">
+<img src=/Estudos-basicos/ContaNumInterval/img/pergunta.JPEG width="500">
